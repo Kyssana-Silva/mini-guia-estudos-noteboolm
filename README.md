@@ -1,228 +1,286 @@
-# 🔩 Estudo sobre Ferro Fundido Nodular
+# 🔩 Miniguia de Estudo — Ferro Fundido Nodular
 
-> **Estudo desenvolvido durante o 1º semestre do curso Técnico em Mecânica Industrial, utilizando o NotebookLM como ferramenta de apoio à aprendizagem e organização do conteúdo.**
-
----
-
-## 📚 Sobre o estudo
-
-Este repositório apresenta um estudo introdutório sobre **Ferro Fundido Nodular**, desenvolvido como parte do processo de aprendizagem no curso Técnico em Mecânica Industrial.
-
-O objetivo foi compreender, de forma didática e aplicada, os principais conceitos relacionados a esse material, sua estrutura, propriedades mecânicas, processo de fabricação, aplicações industriais e diferenças em relação a outros tipos de ferro fundido.
-
-O estudo também buscou relacionar os conhecimentos teóricos da disciplina com situações encontradas na **indústria mecânica**, contribuindo para a formação dos fundamentos necessários ao profissional de Mecânica Industrial.
+> **Estudo desenvolvido no 1º semestre do curso Técnico em Mecânica Industrial, com apoio do NotebookLM para organização, revisão e elaboração do material de estudo.**
 
 ---
 
-## 🎯 Objetivos
+## 📚 Sobre este projeto
 
-Durante o estudo, foram abordados os seguintes objetivos:
+Este repositório apresenta o resultado final de um estudo introdutório sobre **Ferro Fundido Nodular**, realizado durante o primeiro semestre do curso Técnico em Mecânica Industrial.
 
-* Compreender o que é o ferro fundido nodular;
-* Entender a importância da grafita em sua estrutura;
-* Conhecer a diferença entre grafita nodular e grafita lamelar;
-* Compreender o processo de **nodulização**;
-* Conhecer o papel do **magnésio** e de outros elementos no processo;
-* Entender o processo de **inoculação**;
-* Conhecer algumas propriedades mecânicas do material;
-* Identificar aplicações industriais;
-* Conhecer alguns tratamentos térmicos aplicados ao ferro fundido nodular;
-* Ter contato com normas técnicas relacionadas ao material;
-* Comparar o ferro fundido nodular com outros tipos de ferro fundido.
+O objetivo deste trabalho foi consolidar os principais conhecimentos estudados sobre o material, organizando o conteúdo em forma de um **Miniguia de Estudo**, com resumos estruturados e um glossário dos principais conceitos aprendidos.
 
----
+O estudo aborda desde os fundamentos dos ferros fundidos até aspectos específicos do ferro fundido nodular, como:
 
-## 🧱 O que é o Ferro Fundido Nodular?
-
-O ferro fundido nodular é uma liga metálica na qual o carbono se apresenta principalmente na forma de **grafita esferoidal**, também chamada de **nódulos de grafita**.
-
-Essa característica da microestrutura é importante porque influencia diretamente as propriedades mecânicas do material.
-
-Diferentemente do ferro fundido cinzento, que possui grafita em forma de veios ou lamelas, o ferro fundido nodular apresenta a grafita em formato mais próximo de partículas esféricas.
-
-Essa morfologia reduz a concentração de tensões e contribui para características como:
-
-* resistência mecânica;
-* ductilidade;
-* tenacidade;
-* resistência à fadiga;
-* resistência ao desgaste.
-
-O material estudado apresenta propriedades que podem permitir sua utilização em determinadas aplicações anteriormente destinadas aos aços.
+* composição e características;
+* grafita e sua morfologia;
+* processo de nodulização;
+* inoculação;
+* nucleação e solidificação;
+* propriedades mecânicas;
+* tratamentos térmicos;
+* aplicações industriais;
+* normas técnicas.
 
 ---
 
-## 🔬 Microestrutura e grafita
+# 🎯 Objetivo do estudo
 
-Um dos principais pontos estudados foi a influência da **forma da grafita** nas propriedades do ferro fundido.
+Compreender os fundamentos do **ferro fundido nodular** e sua importância na área de Mecânica Industrial, relacionando:
+
+**estrutura → processo de fabricação → propriedades → aplicações**
+
+A proposta foi utilizar uma linguagem acessível para facilitar a compreensão dos conceitos por estudantes que estão iniciando sua formação técnica.
+
+---
+
+# 🧠 Resumo estruturado
+
+## 1. Ferros Fundidos
+
+Os ferros fundidos são ligas metálicas constituídas principalmente por **ferro, carbono e silício**.
+
+O material estudado apresenta a definição de ferro fundido como uma liga Fe-C-Si, geralmente com teor de carbono superior a 2%.
+
+Os ferros fundidos podem ser classificados em diferentes tipos, entre eles:
+
+* Ferro fundido cinzento;
+* Ferro fundido branco;
+* Ferro fundido mesclado;
+* Ferro fundido maleável;
+* Ferro fundido de grafita compacta;
+* Ferro fundido nodular.
+
+Uma das principais diferenças entre esses materiais está relacionada à **forma como o carbono/grafita se apresenta na microestrutura**.
+
+---
+
+## 2. Grafita e Microestrutura
+
+A forma da grafita possui grande influência sobre as propriedades mecânicas do ferro fundido.
+
+De forma simplificada:
+
+| Morfologia da grafita | Característica              |
+| --------------------- | --------------------------- |
+| Lamelar               | Grafita em veios/lamelas    |
+| Compacta              | Grafita em forma compacta   |
+| Esferoidal            | Grafita em forma de nódulos |
+
+No ferro fundido nodular, a grafita apresenta **morfologia esferoidal**.
+
+Essa forma reduz a concentração de tensões em comparação com a grafita em veios, contribuindo para melhores características de ductilidade e resistência mecânica.
+
+### Por que isso é importante?
+
+A forma da grafita influencia diretamente o comportamento do material.
+
+```text
+FORMA DA GRAFITA
+       ↓
+MICROESTRUTURA
+       ↓
+CONCENTRAÇÃO DE TENSÕES
+       ↓
+PROPRIEDADES MECÂNICAS
+```
+
+---
+
+# 3. Ferro Fundido Nodular
+
+O ferro fundido nodular é caracterizado pela presença de **grafita na forma de nódulos ou partículas esferoidais**.
+
+Essa característica permite que o material apresente uma combinação de propriedades mecânicas superior à encontrada em alguns outros ferros fundidos.
+
+Entre as características estudadas estão:
+
+* boa resistência mecânica;
+* boa ductilidade;
+* boa tenacidade;
+* resistência ao desgaste;
+* resistência à fadiga.
+
+O estudo também apresenta o ferro fundido nodular como um material que pode ser utilizado em determinadas aplicações que anteriormente eram destinadas aos aços.
+
+---
+
+# 4. Nodulização
+
+A **nodulização** é uma etapa fundamental para a produção do ferro fundido nodular.
+
+O processo ocorre com o metal ainda no estado líquido e utiliza elementos capazes de modificar a morfologia da grafita.
+
+Entre os elementos utilizados estão:
+
+* Magnésio;
+* Cálcio;
+* Cério;
+* Terras raras.
+
+O magnésio possui papel importante na formação da grafita esferoidal.
+
+Uma das ligas nodulizantes utilizadas é a **FeSiMg — ferro-silício-magnésio**.
+
+### Resumindo
+
+```text
+METAL LÍQUIDO
+      ↓
+ADIÇÃO DE NODULIZANTE
+      ↓
+REAÇÕES NO BANHO
+      ↓
+FORMAÇÃO DAS CONDIÇÕES
+PARA NODULARIZAÇÃO
+      ↓
+SOLIDIFICAÇÃO
+      ↓
+NÓDULOS DE GRAFITA
+```
+
+O controle da quantidade dos elementos nodulizantes é importante, pois quantidades inadequadas podem provocar alterações indesejadas na microestrutura.
+
+---
+
+# 5. Inoculação
+
+A **inoculação** está relacionada à formação de núcleos que favorecem a precipitação e o crescimento da grafita durante a solidificação.
+
+Um dos inoculantes utilizados é o **ferro-silício (FeSi)**.
+
+O processo pode ser entendido de forma simplificada:
+
+> **Nodulização:** modifica a morfologia da grafita.
+
+> **Inoculação:** favorece a nucleação e o crescimento da grafita.
+
+O estudo apresenta o ferro-silício como um dos inoculantes mais utilizados no processo.
+
+---
+
+# 6. Solidificação e formação dos nódulos
+
+Durante a solidificação do metal líquido ocorre a nucleação e o crescimento dos cristais.
+
+Os nódulos de grafita formados previamente no metal líquido são envolvidos por uma camada de austenita. Em seguida ocorre a difusão de carbono para os nódulos durante o processo de solidificação.
 
 De maneira simplificada:
 
 ```text
-FERRO FUNDIDO
-
-        ├── Grafita lamelar
-        │      └── Ferro fundido cinzento
-        │
-        ├── Grafita compacta
-        │      └── Ferro fundido vermicular
-        │
-        └── Grafita esferoidal
-               └── Ferro fundido nodular
+METAL LÍQUIDO
+      ↓
+NUCLEAÇÃO
+      ↓
+FORMAÇÃO DOS NÓDULOS
+      ↓
+CRESCIMENTO DA GRAFITA
+      ↓
+SOLIDIFICAÇÃO
+      ↓
+MICROESTRUTURA FINAL
 ```
 
-A grafita esferoidal apresenta uma vantagem importante em relação à grafita em forma de veios, pois reduz os efeitos de concentração de tensões na matriz metálica.
+---
 
-O estudo consultado destaca que a grafita esferoidal proporciona menor concentração de tensões quando comparada à grafita em veios.
+# 7. Propriedades Mecânicas
+
+Uma das principais vantagens do ferro fundido nodular é a combinação entre **resistência mecânica e ductilidade**.
+
+As propriedades dependem também da matriz formada.
+
+O material estudado apresenta os seguintes valores como referência:
+
+| Matriz    | Resistência |        Alongamento |
+| --------- | ----------: | -----------------: |
+| Ferrítica | 380–450 MPa |             10–22% |
+| Perlítica | Até 900 MPa | Aproximadamente 2% |
+
+Esses valores mostram que diferentes microestruturas podem produzir diferentes comportamentos mecânicos.
+
+### Principais propriedades estudadas
+
+* **Resistência mecânica**
+* **Ductilidade**
+* **Tenacidade**
+* **Resistência ao desgaste**
+* **Resistência à fadiga**
+* **Resistência ao impacto**
 
 ---
 
-## ⚗️ Processo de Nodulização
+# 8. Tratamentos Térmicos
 
-A **nodulização** é uma etapa fundamental para a produção do ferro fundido nodular.
+Os tratamentos térmicos podem modificar a matriz que envolve os nódulos de grafita e, consequentemente, alterar as propriedades do material.
 
-Nesse processo são adicionados elementos químicos capazes de modificar a forma como a grafita se desenvolve durante a solidificação.
+Entre os tratamentos apresentados no estudo estão:
 
-Entre os elementos utilizados estão:
+### 🔥 Recozimento
 
-* Magnésio (Mg);
-* Cálcio (Ca);
-* Cério (Ce);
-* Elementos de terras raras.
+Pode ser utilizado para obtenção de uma matriz ferrítica e para modificar características do material.
 
-O **magnésio** possui papel importante nesse processo e é utilizado como elemento nodulizante.
+### 🔥 Normalização
 
-Uma das ligas utilizadas é a **FeSiMg (ferro-silício-magnésio)**.
+Envolve a austenitização seguida de resfriamento ao ar.
 
-De forma simplificada:
+### 🔥 Têmpera e Revenimento
 
-```text
-Metal líquido
-     │
-     ▼
-Adição de nodulizante
-     │
-     ▼
-Reação no banho metálico
-     │
-     ▼
-Formação de condições favoráveis
-à nucleação da grafita
-     │
-     ▼
-Solidificação
-     │
-     ▼
-Nódulos de grafita
-     │
-     ▼
-FERRO FUNDIDO NODULAR
-```
-
-O controle da quantidade de nodulizante é importante, pois tanto a deficiência quanto o excesso podem prejudicar a formação adequada da grafita.
-
----
-
-## 🧪 Inoculação
-
-Outro conceito estudado foi a **inoculação**.
-
-A inoculação tem como objetivo favorecer a formação de núcleos para a precipitação e crescimento da grafita durante a solidificação.
-
-Um dos inoculantes mencionados no material é o **ferro-silício (FeSi)**.
-
-De forma simplificada:
-
-> **Nodulização → modifica a morfologia da grafita**
-
-> **Inoculação → favorece a nucleação e o crescimento da grafita**
-
-O estudo destaca que o processo de nucleação e crescimento dos cristais ocorre durante a solidificação do metal líquido.
-
----
-
-## ⚙️ Propriedades mecânicas
-
-Uma das características que torna o ferro fundido nodular importante para a engenharia é a combinação entre **resistência mecânica e ductilidade**.
-
-Dependendo da matriz obtida, suas propriedades podem variar.
-
-O material estudado apresenta, por exemplo, valores de resistência e alongamento diferentes para matrizes ferríticas e perlíticas:
-
-| Matriz    | Resistência à tração |        Alongamento |
-| --------- | -------------------: | -----------------: |
-| Ferrítica |          380–450 MPa |             10–22% |
-| Perlítica |          até 900 MPa | aproximadamente 2% |
-
-Esses valores demonstram como a microestrutura e os tratamentos aplicados podem modificar significativamente o comportamento mecânico do material.
-
----
-
-## 🔥 Tratamentos térmicos
-
-O estudo também abordou tratamentos térmicos utilizados para modificar a matriz e, consequentemente, as propriedades do ferro fundido nodular.
-
-Entre os tratamentos estudados estão:
-
-* **Recozimento**
-* **Normalização**
-* **Têmpera e revenimento**
-* **Alívio de tensões**
-* **Austêmpera**
-
-Esses tratamentos podem ser utilizados para alterar características como:
+Podem ser utilizados para aumentar características como:
 
 * dureza;
 * resistência mecânica;
-* resistência ao desgaste;
-* ductilidade;
-* tenacidade.
+* resistência ao desgaste.
 
-Um dos tratamentos de destaque é a **austêmpera**, utilizada para produzir uma estrutura denominada **bainita**, resultando em uma combinação interessante de resistência e tenacidade.
+### 🔥 Alívio de tensões
+
+Pode ser utilizado para eliminar tensões residuais, especialmente em peças grandes ou com seções transversais não uniformes.
+
+### 🔥 Austêmpera
+
+É utilizada para obtenção de uma estrutura denominada **bainita**, podendo proporcionar elevada resistência mecânica e dureza, juntamente com características de tenacidade.
 
 ---
 
-## 🏭 Aplicações industriais
+# 9. Aplicações Industriais
 
 O ferro fundido nodular possui diversas aplicações na indústria mecânica.
 
-Entre os exemplos encontrados durante o estudo estão:
+Entre os exemplos apresentados no estudo estão:
 
-* componentes automotivos;
 * cabeçotes de motores;
 * anéis de pistão;
-* componentes de sistemas de freios;
+* componentes de freios;
 * rolos de laminadores;
 * mancais;
 * roldanas;
 * moendas.
 
-Sua utilização está relacionada à combinação de **propriedades mecânicas, possibilidade de fabricação por fundição e custo competitivo**.
+A utilização do material está relacionada principalmente à combinação entre suas propriedades mecânicas e seu custo de fabricação.
 
 ---
 
-## 📐 Normas técnicas
+# 10. Normas Técnicas
 
-O estudo também apresentou algumas normas técnicas relacionadas ao ferro fundido nodular.
+O estudo apresenta algumas normas relacionadas aos ferros fundidos nodulares:
 
-Entre elas:
+| Norma    | Aplicação apresentada no estudo  |
+| -------- | -------------------------------- |
+| NBR 6916 | Classes e propriedades mecânicas |
+| NBR 8650 | Emprego em produtos automotivos  |
+| NBR 8582 | Classificação conforme dureza    |
 
-* **ABNT NBR 6916**
-* **ABNT NBR 8650**
-* **ABNT NBR 8582**
-
-Essas normas estão relacionadas, respectivamente, à classificação e propriedades do ferro fundido nodular, aplicações em produtos automotivos e classificação conforme dureza.
-
-O material também menciona padrões internacionais, como **ASTM** e **ISO**.
+Também são mencionados padrões internacionais, como **ASTM** e **ISO**.
 
 ---
 
-## 💡 Principais aprendizados
+# 🔗 Relação entre os principais conceitos
 
-Ao final do estudo, os principais conceitos compreendidos foram:
+Uma forma de visualizar o conteúdo estudado é:
 
 ```text
 COMPOSIÇÃO QUÍMICA
+       ↓
+METAL LÍQUIDO
        ↓
 NODULIZAÇÃO
        ↓
@@ -232,6 +290,8 @@ NUCLEAÇÃO
        ↓
 SOLIDIFICAÇÃO
        ↓
+FORMAÇÃO DOS NÓDULOS
+       ↓
 MICROESTRUTURA
        ↓
 PROPRIEDADES MECÂNICAS
@@ -239,30 +299,55 @@ PROPRIEDADES MECÂNICAS
 APLICAÇÃO INDUSTRIAL
 ```
 
-A principal conclusão obtida durante o estudo foi que a **microestrutura do material possui relação direta com suas propriedades mecânicas**.
+Esse fluxo ajuda a compreender que o desempenho do material não depende apenas de sua composição, mas também dos processos utilizados para controlar sua microestrutura.
 
-No caso do ferro fundido nodular, a presença da grafita em forma esferoidal contribui para uma combinação de propriedades que permite sua utilização em diversas aplicações industriais.
+---
+
+# 📖 Glossário — Principais conceitos aprendidos
+
+| Conceito                   | Definição                                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Austenita**              | Fase/metálica mencionada no processo de transformação e tratamentos térmicos do ferro fundido nodular.                       |
+| **Austêmpera**             | Tratamento térmico utilizado para produzir uma estrutura bainítica, buscando propriedades mecânicas específicas.             |
+| **Bainita**                | Estrutura formada durante determinados tratamentos térmicos, podendo apresentar elevada resistência mecânica e dureza.       |
+| **Carbono**                | Elemento fundamental na composição dos ferros fundidos e que pode se apresentar na forma de grafita.                         |
+| **Cementita**              | Composto relacionado ao carbono e ao ferro, cuja decomposição pode ocorrer durante determinados tratamentos térmicos.        |
+| **Ductilidade**            | Capacidade de um material sofrer deformação antes da ruptura.                                                                |
+| **Ferro fundido**          | Liga de ferro-carbono-silício com teor de carbono geralmente superior ao que pode permanecer em solução sólida na austenita. |
+| **Ferro fundido cinzento** | Tipo de ferro fundido caracterizado pela presença de grafita em forma lamelar/veios.                                         |
+| **Ferro fundido nodular**  | Ferro fundido que apresenta grafita principalmente na forma esferoidal ou de nódulos.                                        |
+| **Grafita**                | Forma de apresentação do carbono livre presente nos ferros fundidos.                                                         |
+| **Grafita esferoidal**     | Grafita em formato aproximadamente esférico, característica do ferro fundido nodular.                                        |
+| **Grafita lamelar**        | Grafita em forma de veios ou lamelas, característica do ferro fundido cinzento.                                              |
+| **Inoculação**             | Processo destinado a favorecer a nucleação e o crescimento da grafita durante a solidificação.                               |
+| **Magnésio (Mg)**          | Elemento utilizado como nodulizante para modificar a morfologia da grafita.                                                  |
+| **Matriz metálica**        | Estrutura metálica que envolve os nódulos de grafita.                                                                        |
+| **Microestrutura**         | Estrutura interna do material, relacionada às fases e à morfologia de seus constituintes.                                    |
+| **Nodulização**            | Processo realizado no metal líquido para promover a formação de grafita esferoidal.                                          |
+| **Nódulo de grafita**      | Partícula aproximadamente esférica de grafita presente no ferro fundido nodular.                                             |
+| **Nucleação**              | Formação de núcleos que permitem o início do crescimento de uma nova fase durante a solidificação.                           |
+| **Perlita**                | Constituinte da matriz metálica que pode ser obtido em determinadas condições de solidificação ou tratamento térmico.        |
+| **Recozimento**            | Tratamento térmico utilizado para modificar a microestrutura e propriedades do material.                                     |
+| **Resistência mecânica**   | Capacidade do material de suportar esforços mecânicos sem sofrer falha.                                                      |
+| **Solidificação**          | Transformação do metal do estado líquido para o estado sólido.                                                               |
+| **Tenacidade**             | Capacidade do material de absorver energia e resistir à fratura.                                                             |
+| **Tratamento térmico**     | Processo de aquecimento e resfriamento controlado utilizado para modificar a microestrutura e propriedades do material.      |
 
 ---
 
 # 🤖 Uso do NotebookLM
 
-O **NotebookLM** foi utilizado como ferramenta de apoio ao processo de estudo.
+O **NotebookLM** foi utilizado como ferramenta de apoio ao estudo e organização do conhecimento.
 
-A ferramenta foi utilizada para organizar e transformar os materiais pesquisados em uma apresentação didática, seguindo um roteiro previamente elaborado.
+A ferramenta auxiliou na transformação dos materiais pesquisados em uma estrutura de apresentação voltada para estudantes do primeiro período de Mecânica Industrial.
 
-A intenção não foi substituir o estudo das fontes originais, mas utilizar a ferramenta de IA como apoio para:
+O conteúdo gerado pela ferramenta foi utilizado como **apoio ao aprendizado**, tendo como base os materiais selecionados para a pesquisa.
 
-* organizar informações;
-* estruturar os assuntos;
-* facilitar a revisão;
-* transformar o conteúdo em uma apresentação;
-* auxiliar na compreensão dos conceitos;
-* criar uma sequência lógica para exposição do tema.
+A utilização da IA fez parte do processo de estudo, mas as fontes utilizadas foram mantidas no projeto para permitir a consulta ao conteúdo original.
 
 ---
 
-## 📝 Prompt utilizado
+# 📝 Prompt utilizado
 
 O prompt utilizado no NotebookLM foi:
 
@@ -276,31 +361,27 @@ O prompt utilizado no NotebookLM foi:
 
 ---
 
-# 📖 Fontes utilizadas
+# 🔎 Fontes de pesquisa
 
-As principais fontes utilizadas para a pesquisa e elaboração do estudo foram:
+As principais fontes utilizadas foram:
 
-### 🔗 Monferrato
+* **Monferrato** — Diferença entre ferro fundido nodular e cinzento
+  https://monferrato.com.br/qual-a-diferenca-entre-o-ferro-fundido-nodular-e-o-cinzento-fofo/#content
 
-[Qual a diferença entre o ferro fundido nodular e o cinzento?](https://monferrato.com.br/qual-a-diferenca-entre-o-ferro-fundido-nodular-e-o-cinzento-fofo/#content)
+* **Bema Fundição** — Ferro Fundido Nodular
+  https://bemafundicao.com.br/informacao/ferro-fundido-nodular-2/
 
-### 🔗 Bema Fundição
+* **Walter Fundição** — O que é Ferro Nodular?
+  https://www.walterfundicao.com.br/o-que-e-ferro-nodular/#content
 
-[Ferro Fundido Nodular](https://bemafundicao.com.br/informacao/ferro-fundido-nodular-2/)
+* **Metalcava** — Ferro Fundido Nodular e suas aplicações
+  https://blog.metalcava.com.br/2024/01/19/ferro-fundido-nodular-aplicacoes/
 
-### 🔗 Walter Fundição
-
-[O que é Ferro Nodular?](https://www.walterfundicao.com.br/o-que-e-ferro-nodular/#content)
-
-### 🔗 Metalcava
-
-[Ferro Fundido Nodular — Aplicações](https://blog.metalcava.com.br/2024/01/19/ferro-fundido-nodular-aplicacoes/)
+Além dessas fontes, foi utilizado como material complementar o estudo acadêmico **"Estudo Sobre o Ferro Fundido Nodular"**, utilizado para aprofundamento dos conceitos de microestrutura, nodulização, inoculação, propriedades mecânicas e tratamentos térmicos.
 
 ---
 
 # 📂 Estrutura do repositório
-
-Sugestão de organização:
 
 ```text
 ferro-fundido-nodular/
@@ -319,27 +400,29 @@ ferro-fundido-nodular/
 
 ---
 
-# 🎓 Contexto acadêmico
+# 🎓 Resultado da aprendizagem
 
-**Curso:** Técnico em Mecânica Industrial
-**Período:** 1º Semestre
-**Disciplina/Tema:** Materiais / Metalurgia
-**Tema:** Ferro Fundido Nodular
-**Ferramenta de apoio:** NotebookLM
-**Tipo de atividade:** Estudo e apresentação
+Ao finalizar este estudo, foi possível compreender que o **ferro fundido nodular é um material cuja microestrutura possui relação direta com suas propriedades mecânicas**.
 
----
+O principal ponto aprendido foi a importância da **grafita esferoidal** e dos processos de **nodulização e inoculação** para obtenção das características desejadas.
 
-## 🚀 Objetivo deste repositório
+Também foi possível compreender que tratamentos térmicos podem modificar a matriz metálica e, consequentemente, o comportamento mecânico do material.
 
-Este repositório faz parte da minha **jornada de aprendizagem em Mecânica Industrial** e tem como objetivo registrar meus estudos, pesquisas e evolução durante o curso.
+Dessa forma, o estudo permitiu estabelecer uma visão inicial da relação entre:
 
-Além de servir como material de consulta, o projeto representa uma experiência prática de utilização de **Inteligência Artificial como ferramenta de apoio aos estudos técnicos**, mantendo as fontes de pesquisa documentadas.
+> **Metalurgia → Microestrutura → Propriedades → Processos → Aplicações**
+
+Esse conhecimento representa uma base importante para o aprofundamento dos estudos em **Materiais, Metalurgia, Processos de Fabricação e Mecânica Industrial**.
 
 ---
 
-## 👩‍🔧 Aprendizado
+## 👩‍🔧 Status do estudo
 
-> "Aprender Mecânica Industrial não é apenas conhecer máquinas e materiais, mas compreender por que eles funcionam, como são produzidos e como suas propriedades influenciam seu desempenho."
+**Concluído — Miniguia de Estudo**
 
-Este estudo foi um primeiro contato com conceitos de **metalurgia, materiais metálicos, microestrutura, fundição e propriedades mecânicas**, conhecimentos que serão importantes para minha formação como profissional da área de Mecânica Industrial.
+📌 **Curso:** Técnico em Mecânica Industrial
+📌 **Período:** 1º Semestre
+📌 **Tema:** Ferro Fundido Nodular
+📌 **Ferramenta de apoio:** NotebookLM
+📌 **Formato:** Resumo estruturado + Glossário
+📌 **Objetivo:** Consolidação da aprendizagem
